@@ -60,7 +60,7 @@ IV) Observe symmetry (optional)
     2nd Line: row/line = 1, space = (5 - 1 - 1) = 3
     3rd Line: row/line = 2, space = (5 - 2 - 1) = 2
     4th Line: row/line = 3, space = (5 - 3 - 1) = 1
-    5 t h   Line: row/line = 4, space = (5 - 4 - 1) = 0
+    5th Line: row/line = 4, space = (5 - 4 - 1) = 0
   ```
 - Star Formulla: 2 x i + 1
   ```
