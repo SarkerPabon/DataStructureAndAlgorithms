@@ -1,27 +1,27 @@
-# Patter 1: Rectangular Star Pattern
+# Patter 1: Right-Angled Triangle Pattern
 
-## Probelem Statement: Give an integer N, print the following pattern
+## Probelem Statement: Given an integer N, print the following pattern
 
 ### Example 1
 
 ```
-Input: N = 3
-Output:
-* * *
-* * *
+Input Format: N = 3
+Result:
+*
+* *
 * * *
 ```
 
 ### Example 2
 
 ```
-Input: N = 6
-Output:
-* * * * * *
-* * * * * *
-* * * * * *
-* * * * * *
-* * * * * *
+Input Format: N = 6
+Result:
+*
+* *
+* * *
+* * * *
+* * * * *
 * * * * * *
 ```
 
