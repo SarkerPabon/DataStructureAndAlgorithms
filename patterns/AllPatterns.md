@@ -120,3 +120,14 @@
   **
   *
 ```
+
+## Patter 11: Binary Number Triangle Pattern
+
+```
+1
+01
+101
+0101
+10101
+010101
+```
