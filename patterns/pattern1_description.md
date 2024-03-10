@@ -37,4 +37,4 @@ II) For the inner loop, focus on the columns, & connect them somehow to the rows
 
 III) Print then '\*' inside the inner for loop
 
-IV) Observe symmetry (optional)
+IV) Observe symmetry (Optional - Not Applied)
